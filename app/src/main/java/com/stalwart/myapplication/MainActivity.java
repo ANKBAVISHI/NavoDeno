@@ -17,5 +17,6 @@ public class MainActivity extends AppCompatActivity {
         // magaj no atthato
         Button btn;
         Button btn1;
+        Button btn2;
     }
 }
